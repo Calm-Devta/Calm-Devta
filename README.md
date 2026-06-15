@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Shashank+Mishra+👋;Final+Year+CSAI+Student;Learning+Backend,+DSA+and+AI;)](https://git.io/typing-svg)
 
+
 # Hi there 👋 I'm Shashank Mishra
 
 ### About Me
@@ -40,3 +41,5 @@ Beyond academics, I've been involved in multiple initiatives throughout my colle
 ---
 
 > *Curious about technology, passionate about building, and always learning something new.*
+
+![Wave Animation](https://waveify.onrender.com/api/wave/sine?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2.8&waveType=sine&accessibilityMode=false&ambientEffect=false&gradientStops=4&glowIntensity=1)
