@@ -41,5 +41,3 @@ Beyond academics, I've been involved in multiple initiatives throughout my colle
 ---
 
 > *Curious about technology, passionate about building, and always learning something new.*
-
-![Wave Animation](https://waveify.onrender.com/api/wave/sine?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2.8&waveType=sine&accessibilityMode=false&ambientEffect=false&gradientStops=4&glowIntensity=1)
