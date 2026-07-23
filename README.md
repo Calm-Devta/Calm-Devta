@@ -7,7 +7,7 @@
 
 I'm a final-year B.Tech student majoring in **Computer Science** with a specialization in **Artificial Intelligence**. I'm a curious learner with strong interests in Computer Science and related fields.
 
-Recently, I've been exploring **Data Structures & Algorithms**, **Backend Development using JavaScript and Node.js**, and experimenting with **Python** and **Machine Learning**.
+Recently, I've been exploring **Data Structures & Algorithms**, **Backend Development using JavaScript and Node.js**, and experimenting with **GENAI**.
 
 Beyond academics, I've been involved in multiple initiatives throughout my college journey. I've worked closely with startups and contributed to their growth through content marketing and storytelling. I consider my strengths to be **interpersonal communication**, **creativity**, **storytelling**, **backend development**, and **problem-solving**.
 
